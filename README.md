@@ -56,8 +56,11 @@
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prithiga362-create\&layout=compact\&theme=tokyonight)
-
+*java
+*python
+*SQL
+*HTML
+*CSS
 ---
 
 ## Profile Views
